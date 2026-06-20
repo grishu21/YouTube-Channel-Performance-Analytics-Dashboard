@@ -102,24 +102,6 @@ http://localhost:8501
 * Publishing Schedule Optimization
 * Audience Engagement Analysis
 
-## Screenshots
-
-### Dashboard Home
-
-(Add Screenshot Here)
-
-### Deep Dive Analytics
-
-(Add Screenshot Here)
-
-### Revenue Analysis
-
-(Add Screenshot Here)
-
-### Publishing Trends
-
-(Add Screenshot Here)
-
 ## Future Enhancements
 
 * YouTube API Integration
